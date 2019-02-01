@@ -1,0 +1,1 @@
+echo ("Salut les amis !");
