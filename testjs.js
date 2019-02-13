@@ -1,1 +1,0 @@
-echo "Salut la populasse !!!" ;
