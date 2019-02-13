@@ -1,4 +1,4 @@
 for (i=0 ; i < 6 ; i++){
-	echo "Hello ma poule" ;
+	echo "Hello ma poule mouillé" ;
 }
 
