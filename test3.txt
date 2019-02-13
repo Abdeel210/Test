@@ -1,3 +1,1 @@
 Ceci est un test v1
-
-Je modifie egalement ce fichier sur GitHub :)
